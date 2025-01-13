@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         YouTube Remove Create Button
-// @namespace
-// @version      1.0
+// @namespace    https://github.com/or1n/YouTube-Remove-Create-Button
+// @version      1.1
 // @description  Removes the Create button from YouTube's interface
 // @author       https://github.com/or1n
 // @license      MIT
-// @homepage
-// @supportURL
-// @updateURL
-// @downloadURL
+// @homepage     https://github.com/or1n/YouTube-Remove-Create-Button
+// @supportURL   https://github.com/or1n/YouTube-Remove-Create-Button/issues
+// @updateURL    https://github.com/or1n/YouTube-Remove-Create-Button/raw/main/YouTube%20Remove%20Create%20Button.js
+// @downloadURL  https://github.com/or1n/YouTube-Remove-Create-Button/raw/main/YouTube%20Remove%20Create%20Button.js
 // @match        *://*.youtube.com/*
 // @match        http://*.youtube.com/*
 // @match        http://youtube.com/*

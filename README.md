@@ -13,7 +13,7 @@ This UserScript removes the Create button from YouTube's interface. It ensures a
 ## Installation
 
 1. Install a UserScript manager extension for your browser (e.g., Violentmonkey, Tampermonkey, Greasemonkey).
-2. Click on the following link to install the UserScript: YouTube Remove Create Button.
+2. Click on the following link to install the UserScript: [YouTube Remove Create Button](https://github.com/or1n/YouTube-Remove-Create-Button/raw/main/YouTube%20Remove%20Create%20Button.js).
 
 ## Configuration
 

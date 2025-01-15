@@ -10,6 +10,14 @@ This UserScript removes the Create button from YouTube's interface. It ensures a
 - Works on various YouTube pages and sections.
 - Automatically handles dynamic content loading.
 
+### Without the Filter
+
+![YouTube-Remove-Create-Button(disabled)](https://github.com/user-attachments/assets/47c1b9d5-9bec-4999-a9b6-7af5e8544296)
+
+### With the Filter
+
+![YouTube-Remove-Create-Button(enabled)](https://github.com/user-attachments/assets/9c812d67-1747-4cd1-9bc8-f33f5a8a1321)
+
 ## Installation
 
 1. Install a UserScript manager extension for your browser (e.g., Violentmonkey, Tampermonkey, Greasemonkey).
